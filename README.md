@@ -144,11 +144,11 @@ matplotlib
 <img width="800" height="540" alt="image" src="https://github.com/user-attachments/assets/f5eecfaa-cf58-415d-a954-a42f8805f1d2" />
 <img width="1126" height="977" alt="image" src="https://github.com/user-attachments/assets/2999d287-10df-4190-b0d7-dff060bc2c36" />
 <img width="1172" height="966" alt="image" src="https://github.com/user-attachments/assets/8cfc2d71-1e17-4cea-bf49-1cf634a19f6e" />
+<img width="1213" height="979" alt="image" src="https://github.com/user-attachments/assets/8c01f952-71df-49c4-8987-fdfd8f4c1fa7" />
+<img width="1280" height="938" alt="image" src="https://github.com/user-attachments/assets/0983094d-b40f-4dc7-b35e-6fc284fdba36" />
+<img width="1280" height="933" alt="image" src="https://github.com/user-attachments/assets/47d56380-853c-4ece-8445-5908ec8d485f" />
+<img width="1280" height="949" alt="image" src="https://github.com/user-attachments/assets/9b0c31fc-47fa-4a22-8f5c-1e62f4eae668" />
 
 
 
 
-
-
-
-Just tell me!
